@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KI-Bilder</folder>
+	<filename>IMG_2222.JPG</filename>
+	<path>C:\Users\ducan\Desktop\KI-Bilder\IMG_2222.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tennis Ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1832</xmin>
+			<ymin>1230</ymin>
+			<xmax>1913</xmax>
+			<ymax>1278</ymax>
+		</bndbox>
+	</object>
+</annotation>
